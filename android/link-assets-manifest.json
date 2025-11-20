@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/README.md",
+      "sha1": "ffa28b6bf417e313b11fa3924aa6875f036daea9"
+    },
+    {
+      "path": "src/assets/fonts/TTNormsPro-Bold.ttf",
+      "sha1": "c1e809b67ea24435ff12b19ef9820c270eac803c"
+    },
+    {
+      "path": "src/assets/fonts/TTNormsPro-Light.ttf",
+      "sha1": "afa3c0d1749483fddf53f3dda9b210fc581c1b81"
+    },
+    {
+      "path": "src/assets/fonts/TTNormsPro-Medium.ttf",
+      "sha1": "0e724c0fc1d252a900aa9202fd3d6767c694abe6"
+    },
+    {
+      "path": "src/assets/fonts/TTNormsPro-Regular.ttf",
+      "sha1": "44538467d44467ae5bcd2ae2a5154f892705b1c1"
+    }
+  ]
+}
